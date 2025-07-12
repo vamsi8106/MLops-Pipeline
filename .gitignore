@@ -212,6 +212,5 @@ models/
 data/*
 !data/iris.csv.dvc
 .mlflow/
-.dvc/
 monenv/
 
