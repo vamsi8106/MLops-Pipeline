@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+__pycache__/
+*.pkl
+models/
+data/*
+!data/iris.csv.dvc
+.mlflow/
+.dvc/
+monenv/
+
